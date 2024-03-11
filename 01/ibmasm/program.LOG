@@ -1,0 +1,13 @@
+00:51:24 program   EZ390 START USING z390 V1.7.07 ON J2SE 17.0.1 12/10/23
+EZ390I Copyright 2011 Automated Software Tools Corporation
+EZ390I z390 is licensed under GNU General Public License
+EZ390I program = X:\Documents\projects\ibmasm-adventofcode\20231201\program.390
+EZ390I options = AMODE24 DUMP TEST
+
+
+
+
+
+EZ390I instructions/sec     = 168
+EZ390I total errors         = 0
+00:51:26 program   EZ390 ENDED   RC= 0 SEC= 1 MEM(MB)= 16 IO=37 INS=303

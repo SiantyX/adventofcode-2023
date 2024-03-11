@@ -1,0 +1,10 @@
+00:51:24 program   LZ390 START USING z390 V1.7.07 ON J2SE 17.0.1 12/10/23
+LZ390I Copyright 2011 Automated Software Tools Corporation
+LZ390I z390 is licensed under GNU General Public License
+LZ390I options = AMODE24 DUMP TEST
+LZ390I program = X:\Documents\projects\ibmasm-adventofcode\20231201\program.OBJ
+LZ390I ESD=PROGRAM  LOC=00000000 LEN=000002B8
+LZ390I INCLUDE = X:\Documents\projects\ibmasm-adventofcode\20231201\program.OBJ
+LZ390I RLD LOC=00000148 FLD=000000E6 EXT=00000000
+LZ390I total errors         = 0
+00:51:24 program   LZ390 ENDED   RC= 0 SEC= 0 MEM(MB)=  6 IO=153

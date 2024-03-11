@@ -1,0 +1,1 @@
+set SYSIN=sysin.txt && set SYSOUT=sysout.txt && X:\\Downloads\\z390_v1707\\z390_v1707\\bat\\asml 'program.asm' AMODE24 DUMP && X:\\Downloads\\z390_v1707\\z390_v1707\\bat\\exec 'program.OBJ' TEST

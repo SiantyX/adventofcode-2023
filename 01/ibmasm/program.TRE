@@ -1,0 +1,9 @@
+00:51:24 program   EZ390 START USING z390 V1.7.07 ON J2SE 17.0.1 12/10/23
+test enter command or h for help
+test cmd: g
+
+
+
+
+
+00:51:26 program   EZ390 ENDED   RC= 0 SEC= 1 MEM(MB)= 16 IO=37 INS=303
